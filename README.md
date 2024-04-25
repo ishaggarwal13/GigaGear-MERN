@@ -1,9 +1,7 @@
-# eCommerce Platform Project - MERN Stack
+# GigaGear MERN
 
-Welcome to the eCommerce Platform Project built using the MERN (MongoDB, Express.js, React, Node.js) Stack. This project provides a robust and full-featured online shopping platform with various functionalities to enhance the user experience.
+Welcome to the GigaGear MERN project, an eCommerce Platform built using the MERN (MongoDB, Express.js, React, Node.js) Stack. This project provides a robust and full-featured online shopping platform with various functionalities to enhance the user experience.
 
-**Live App Demo** : [https://mern-shop-abxs.onrender.com/](https://mern-shop-abxs.onrender.com/)</br>
-Note: Please be aware that Render's free tier will automatically shut down after 15 minutes of inactivity. Consequently, the first request after reactivation may experience a delay, but subsequent requests will be faster.
 
 ## Features
 
@@ -31,11 +29,11 @@ Note: Please be aware that Render's free tier will automatically shut down after
 2. Clone the forked repository to your local machine
 
 ```bash
-git clone https://github.com/your-username/MERN-eCommerce.git
+git clone https://github.com/your-username/GigaGear-MERN.git
 ```
 
 ```bash
-cd MERN-eCommerce
+cd GigaGear-MERN
 ```
 
 3. Create a MongoDB database and obtain your MongoDB URI from [MongoDB Atlas](https://www.mongodb.com/cloud/atlas).
@@ -134,13 +132,13 @@ We welcome and appreciate contributions from the community to enhance and improv
 2. Clone the forked repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/MERN-eCommerce.git
+   git clone https://github.com/your-username/GigaGear-MERN.git
    ```
 
 3. Navigate to the project directory:
 
    ```bash
-   cd MERN-eCommerce
+   cd GigaGear-MERN
    ```
 
 4. Create a new branch for your contributions:
