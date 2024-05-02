@@ -92,6 +92,9 @@ cd frontend
 npm run build
 ```
 
+## Deployment
+[https://gigagear-mern.onrender.com/](https://gigagear-mern.onrender.com/)
+
 ## Seed Database
 
 Use the following commands to seed the database with sample users and products, or destroy all data:
